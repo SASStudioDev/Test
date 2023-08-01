@@ -1,4 +1,4 @@
-﻿
+﻿/* comment */
 goptions cback=black colors=(white cyan purple gold red);
  
 data hat;
