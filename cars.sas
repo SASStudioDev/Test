@@ -9,3 +9,4 @@ asdf
 remote edit 3
 remote edit 4
 asdfasdf
+pull
