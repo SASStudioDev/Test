@@ -1,4 +1,4 @@
-﻿/* comment */
+/* comment */
 goptions cback=black colors=(white cyan purple gold red);
  
 data hat;
@@ -9,7 +9,7 @@ data hat;
       end;
    end;
 run;
-title1 c=red f=swiss 'Da Cowboy Hat';
+title1 c=green f=swiss 'Da Cowboy Hat';
 title2 h=2 angle=90 ' ';
 
 proc g3d data=hat;
