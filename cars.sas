@@ -7,8 +7,7 @@ asdf
 remote edit 3
 remote edit 4
 asdfasdf
-pull
-https
+pullasd
 lockdown testzxzz
 asdfgggggggg
 1234123142
