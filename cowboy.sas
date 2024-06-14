@@ -1,5 +1,5 @@
 /* comment */
-goptions cback=black colors=(white cyan purple gold red);
+goptions cback=black colors=(white cyan orange gold red);
  
 data hat;
    do x=-5 to 5 by .25;
