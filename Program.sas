@@ -7,3 +7,6 @@ run;
 %end;
 %mend;
 %tables;
+
+proc print data=sashelp.class;
+run;
