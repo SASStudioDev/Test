@@ -9,3 +9,4 @@ run;
 1
 asdf
 fetch test
+pull test
