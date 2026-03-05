@@ -15,3 +15,4 @@ pull test 3
 push test 1
 push test 2
 fetch test
+pull test
