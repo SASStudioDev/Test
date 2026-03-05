@@ -12,3 +12,4 @@ fetch test
 pull test
 pull test 2
 pull test 3
+push test 1
