@@ -9,3 +9,4 @@ run;
 %tables;
 asdf
 fetch test
+pull test
