@@ -8,3 +8,4 @@ run;
 %mend;
 %tables;
 asdf
+fetch test
