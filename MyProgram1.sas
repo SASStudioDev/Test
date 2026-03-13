@@ -21,3 +21,4 @@ m9 fetch test
 m9 fetch test 2
 blah
 blah2
+fetch test
