@@ -18,3 +18,4 @@ rebase1
 rebase2
 signedoff
 fetch test
+pull test
