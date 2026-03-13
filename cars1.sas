@@ -21,3 +21,4 @@ fetch test
 pull test
 push test
 fetch test
+pull test
