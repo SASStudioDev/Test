@@ -19,3 +19,4 @@ rebase2
 signedoff
 fetch test
 pull test
+push test
