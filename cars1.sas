@@ -20,3 +20,4 @@ signedoff
 fetch test
 pull test
 push test
+fetch test
