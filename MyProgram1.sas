@@ -22,3 +22,4 @@ m9 fetch test 2
 blah
 blah2
 fetch test
+pull test
