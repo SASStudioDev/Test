@@ -11,3 +11,4 @@ asdf
 fetch test
 pull test
 push test
+m10 push test
