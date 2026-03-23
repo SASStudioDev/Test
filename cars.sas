@@ -21,3 +21,4 @@ ssh test 9.4m8
 push test
 fetch test 94m8
 pull test 94m8
+fetch test 94m10
