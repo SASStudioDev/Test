@@ -22,3 +22,4 @@ push test
 fetch test 94m8
 pull test 94m8
 fetch test 94m10
+pull test 94m10
